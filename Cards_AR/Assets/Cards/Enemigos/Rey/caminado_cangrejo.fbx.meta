@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 234709cbcba0ac742a63626fced2594a
+timeCreated: 1523292028
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm_Der
+    100002: Arm_izq
+    100004: arm_izq
+    100006: arm_izq1
+    100008: body_ZBrush_defualt_group1
+    100010: //RootNode
+    100012: Eye_Cent_Bot
+    100014: Eye_Cent_Top
+    100016: Eye_Der_Bot
+    100018: Eye_Der_Top
+    100020: Eye_Eyejoint1
+    100022: Eye_Eyejoint2
+    100024: Eye_Eyejoint3
+    100026: Eye_Eyejoint4
+    100028: Eye_Eyejoint5
+    100030: Eye_Eyejoint6
+    100032: Eye_Izq_Bot
+    100034: Eye_Izq_Top
+    100036: group1
+    100038: horn02_ZBrush_defualt_group
+    100040: ikHandle1
+    100042: ikHandle10
+    100044: ikHandle11
+    100046: ikHandle2
+    100048: ikHandle3
+    100050: ikHandle4
+    100052: ikHandle5
+    100054: ikHandle6
+    100056: ikHandle8
+    100058: ikHandle9
+    100060: joint10
+    100062: joint11
+    100064: joint18
+    100066: joint19
+    100068: joint20
+    100070: joint21
+    100072: joint22
+    100074: joint23
+    100076: joint24
+    100078: joint25
+    100080: joint26
+    100082: joint27
+    100084: joint28
+    100086: joint29
+    100088: joint30
+    100090: joint31
+    100092: joint32
+    100094: joint6
+    100096: joint7
+    100098: joint8
+    100100: joint9
+    100102: Leg_der1
+    100104: Leg_der2
+    100106: Leg_izq1
+    100108: Leg_izq2
+    100110: Legs_Der
+    100112: Legs_Izq
+    100114: lowbody
+    100116: Main
+    100118: main_ctrl
+    100120: Pincer_izq
+    100122: Pincer_izq1
+    100124: Pincer_top_izq
+    100126: Pincer_top_izq1
+    100128: Pinz_Bot_der
+    100130: Pinz_bot_izq
+    100132: Pinz_Top_der
+    100134: Pinz_top_izq
+    100136: PolV_Leg1_izq
+    100138: PolV_Leg1Der
+    100140: PolV_Leg2_Der
+    100142: PolV_Leg2_izq
+    100144: pSphere7
+    100146: Shel_Base
+    100148: Shell_Base
+    100150: Shell_Mid
+    100152: Shell_top
+    100154: transform1
+    100156: ZBrush_defualt_group
+    400000: Arm_Der
+    400002: Arm_izq
+    400004: arm_izq
+    400006: arm_izq1
+    400008: body_ZBrush_defualt_group1
+    400010: //RootNode
+    400012: Eye_Cent_Bot
+    400014: Eye_Cent_Top
+    400016: Eye_Der_Bot
+    400018: Eye_Der_Top
+    400020: Eye_Eyejoint1
+    400022: Eye_Eyejoint2
+    400024: Eye_Eyejoint3
+    400026: Eye_Eyejoint4
+    400028: Eye_Eyejoint5
+    400030: Eye_Eyejoint6
+    400032: Eye_Izq_Bot
+    400034: Eye_Izq_Top
+    400036: group1
+    400038: horn02_ZBrush_defualt_group
+    400040: ikHandle1
+    400042: ikHandle10
+    400044: ikHandle11
+    400046: ikHandle2
+    400048: ikHandle3
+    400050: ikHandle4
+    400052: ikHandle5
+    400054: ikHandle6
+    400056: ikHandle8
+    400058: ikHandle9
+    400060: joint10
+    400062: joint11
+    400064: joint18
+    400066: joint19
+    400068: joint20
+    400070: joint21
+    400072: joint22
+    400074: joint23
+    400076: joint24
+    400078: joint25
+    400080: joint26
+    400082: joint27
+    400084: joint28
+    400086: joint29
+    400088: joint30
+    400090: joint31
+    400092: joint32
+    400094: joint6
+    400096: joint7
+    400098: joint8
+    400100: joint9
+    400102: Leg_der1
+    400104: Leg_der2
+    400106: Leg_izq1
+    400108: Leg_izq2
+    400110: Legs_Der
+    400112: Legs_Izq
+    400114: lowbody
+    400116: Main
+    400118: main_ctrl
+    400120: Pincer_izq
+    400122: Pincer_izq1
+    400124: Pincer_top_izq
+    400126: Pincer_top_izq1
+    400128: Pinz_Bot_der
+    400130: Pinz_bot_izq
+    400132: Pinz_Top_der
+    400134: Pinz_top_izq
+    400136: PolV_Leg1_izq
+    400138: PolV_Leg1Der
+    400140: PolV_Leg2_Der
+    400142: PolV_Leg2_izq
+    400144: pSphere7
+    400146: Shel_Base
+    400148: Shell_Base
+    400150: Shell_Mid
+    400152: Shell_top
+    400154: transform1
+    400156: ZBrush_defualt_group
+    2100000: lambert9
+    4300000: pSphere7
+    4300002: body_ZBrush_defualt_group1
+    4300004: lowbody
+    4300006: horn02_ZBrush_defualt_group
+    4300008: ZBrush_defualt_group
+    7400000: Take 001
+    7400002: Walk
+    9500000: //RootNode
+    13700000: body_ZBrush_defualt_group1
+    13700002: horn02_ZBrush_defualt_group
+    13700004: lowbody
+    13700006: pSphere7
+    13700008: ZBrush_defualt_group
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

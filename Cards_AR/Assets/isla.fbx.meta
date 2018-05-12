@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: ec3d91952b2c5a744b900c93b08e4ede
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boat:Mesh
+    100002: cofre_y_muelle:Dock
+    100004: craneo:polySurface1
+    100006: //RootNode
+    100008: nurbsToPoly481
+    100010: nurbsToPoly482
+    100012: nurbsToPoly483
+    100014: nurbsToPoly484
+    100016: nurbsToPoly485
+    100018: palmera1
+    100020: palmera2
+    100022: palmera3
+    100024: palmera4
+    100026: palmera5
+    100028: palmera6
+    100030: palmera7
+    100032: palmera:palmera
+    100034: pPlane1
+    100036: pPlane30
+    100038: pSphere1
+    100040: pSphere2
+    100042: pSphere3
+    100044: pSphere4
+    400000: boat:Mesh
+    400002: cofre_y_muelle:Dock
+    400004: craneo:polySurface1
+    400006: //RootNode
+    400008: nurbsToPoly481
+    400010: nurbsToPoly482
+    400012: nurbsToPoly483
+    400014: nurbsToPoly484
+    400016: nurbsToPoly485
+    400018: palmera1
+    400020: palmera2
+    400022: palmera3
+    400024: palmera4
+    400026: palmera5
+    400028: palmera6
+    400030: palmera7
+    400032: palmera:palmera
+    400034: pPlane1
+    400036: pPlane30
+    400038: pSphere1
+    400040: pSphere2
+    400042: pSphere3
+    400044: pSphere4
+    2300000: boat:Mesh
+    2300002: cofre_y_muelle:Dock
+    2300004: craneo:polySurface1
+    2300006: nurbsToPoly481
+    2300008: nurbsToPoly482
+    2300010: nurbsToPoly483
+    2300012: nurbsToPoly484
+    2300014: nurbsToPoly485
+    2300016: palmera1
+    2300018: palmera2
+    2300020: palmera3
+    2300022: palmera4
+    2300024: palmera5
+    2300026: palmera6
+    2300028: palmera7
+    2300030: palmera:palmera
+    2300032: pPlane1
+    2300034: pPlane30
+    2300036: pSphere1
+    2300038: pSphere2
+    2300040: pSphere3
+    2300042: pSphere4
+    3300000: boat:Mesh
+    3300002: cofre_y_muelle:Dock
+    3300004: craneo:polySurface1
+    3300006: nurbsToPoly481
+    3300008: nurbsToPoly482
+    3300010: nurbsToPoly483
+    3300012: nurbsToPoly484
+    3300014: nurbsToPoly485
+    3300016: palmera1
+    3300018: palmera2
+    3300020: palmera3
+    3300022: palmera4
+    3300024: palmera5
+    3300026: palmera6
+    3300028: palmera7
+    3300030: palmera:palmera
+    3300032: pPlane1
+    3300034: pPlane30
+    3300036: pSphere1
+    3300038: pSphere2
+    3300040: pSphere3
+    3300042: pSphere4
+    4300000: pPlane1
+    4300002: nurbsToPoly481
+    4300004: nurbsToPoly482
+    4300006: nurbsToPoly483
+    4300008: nurbsToPoly484
+    4300010: pSphere1
+    4300012: pSphere2
+    4300014: pSphere3
+    4300016: pSphere4
+    4300018: cofre_y_muelle:Dock
+    4300020: boat:Mesh
+    4300022: nurbsToPoly485
+    4300024: craneo:polySurface1
+    4300026: palmera:palmera
+    4300028: palmera1
+    4300030: palmera2
+    4300032: palmera3
+    4300034: palmera4
+    4300036: palmera5
+    4300038: palmera6
+    4300040: palmera7
+    4300042: pPlane30
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 3e40e2ea88b175d48aa77a20b8272cff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 88ddee0b4db2ab64d9f8bfe4a0c4389e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 7e8d77eaf1b52694fbc77dcddafa4853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 8f2b2a9e779b7814e9f4791dca66f1e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera_muelle
+    second: {fileID: 2100000, guid: 7e8d77eaf1b52694fbc77dcddafa4853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moneda_isla_lambert2
+    second: {fileID: 2100000, guid: 6c9b062b941f4f549a0626578afba221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moneda_isla_lambert3
+    second: {fileID: 2100000, guid: 6c9b062b941f4f549a0626578afba221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmera8
+    second: {fileID: 2100000, guid: e1ef4efb135575744b679c8a2bb81e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ramitas
+    second: {fileID: 2100000, guid: 7b1edc9cb6328324aa38945bef811b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roca
+    second: {fileID: 2100000, guid: 3e40e2ea88b175d48aa77a20b8272cff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tronco
+    second: {fileID: 2100000, guid: cfe9f26bff34d9243ad0d6573a95e5b4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
